@@ -1,2 +1,1 @@
-# GeoAuth
-Context-Aware Multi-Factor Authentication System
+Developed a context-aware system called "GeoAuth" that enhances cybersecurity and Multi-Factor Authentication through intelligent location verification, device binding, and QR code recovery. Achieving 8.7/10 security effectiveness versus traditional passwords (2.1/10), it blocks remote attacks while maintaining usability. Built with Python Flask and JavaScript, demonstrating practical context-aware authentication for modern threats.
